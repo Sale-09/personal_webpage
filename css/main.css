@@ -282,5 +282,4 @@ main {
   .projects {
     grid-template-columns: 1fr; }
   .menu-branding {
-    height: 37vh;
-    padding-top: 25px; } }
+    height: 37vh; } }
