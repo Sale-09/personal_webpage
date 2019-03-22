@@ -280,4 +280,6 @@ main {
   .lastName {
     font-size: 3rem; }
   .projects {
-    grid-template-columns: 1fr; } }
+    grid-template-columns: 1fr; }
+  .menu-branding {
+    height: 37vh; } }
